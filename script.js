@@ -611,10 +611,10 @@ scene.add(planet);
 
 // ---- TẠO CÁC VÒNG CHỮ QUAY QUANH HÀNH TINH ----
 const ringTexts = [
-  "Chào Mưng 20/10!",
-  "Cao Chung Đạt",
-  "Nguyễn Ngọc Yến Nhi",
-  "20/03/2005",
+  "Chào Mừng 20/10!",
+  "Chúc Chị Em Luôn Vui Vẻ Hạnh Phúc",
+  "From Mấy thằng 17 tuổi chưa bẻ được sừng trâu",
+  "src by Phucnhan remake by Thethanh",
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
 
